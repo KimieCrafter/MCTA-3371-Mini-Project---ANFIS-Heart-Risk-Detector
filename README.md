@@ -1,4 +1,4 @@
-improvise adapt overcome. 
+   improvise adapt overcome. 
  the files we have uploaded are regarding our MCTA 3371 mini project.
  ANFIS FOR PRESENTING is our code used for training and testing accuracy and performance of our system.
  Fuzzy_Gaussian_Graphs will display the membership functions with the optimal parameters.
